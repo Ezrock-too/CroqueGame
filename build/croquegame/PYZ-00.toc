@@ -1,4 +1,4 @@
-('C:\\Users\\jacob\\OneDrive\\Bureaublad\\Game\\build\\croquegame\\PYZ-00.pyz',
+('C:\\Users\\jacob\\OneDrive\\Bureaublad\\CroqueGame\\build\\croquegame\\PYZ-00.pyz',
  [('OpenGL',
    'C:\\Users\\jacob\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\OpenGL\\__init__.py',
    'PYMODULE'),
